@@ -1,0 +1,7 @@
+{
+    "loginPage": "https://app.petrolprices.com/",
+    "searchFilterInfo": "POST_CODE",
+    "fuelType": "FUEL_TYPE_UNLEADED_OR_DIESEL",
+    "email": "EMAIL",
+    "password": "PASSWORD"
+}

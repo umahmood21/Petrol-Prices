@@ -1,0 +1,23 @@
+{
+  "name": "petrol-prices",
+  "version": "1.0.0",
+  "description": "Fetches top 10 cheapest fuel prices within the area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umahmood21/Petrol-Prices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umahmood21/Petrol-Prices/issues"
+  },
+  "homepage": "https://github.com/umahmood21/Petrol-Prices#readme",
+  "dependencies": {
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
